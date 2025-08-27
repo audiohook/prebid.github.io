@@ -26,7 +26,7 @@
   "devDependencies": {
   },
   "dependencies": {
-    "awesomplete": "^1.1.5",
+    "awesomplete": "^1.1.7",
     "bootstrap": "^4.5.3",
     "bourbon": "^7.0.0",
     "include-media": "^1.4.9",
